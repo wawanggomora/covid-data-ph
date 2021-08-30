@@ -1,8 +1,7 @@
-# covid-scrape
+# Web Scraper for Covid-19 Data in PH
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Web Scraper for Covid-19 Data in PH
 Official DOH Twitter account (source): https://twitter.com/DOHgovph
 
 ### Prerequisites
