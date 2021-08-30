@@ -27,3 +27,4 @@ Be sure you have npm in your system.
    ```JS
    node scrape
    ```
+4. View the scraped data inside ```covidReport.json``` file.
