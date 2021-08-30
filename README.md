@@ -1,4 +1,4 @@
-# Web Scraper for Covid-19 Data in PH
+# Web Scraper for COVID-19 Data in PH
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -26,4 +26,19 @@ Be sure you have npm in your system.
    ```JS
    node scrape
    ```
-4. View the scraped data inside ```covidReport.json``` file.
+4. View the  data inside ```covidReport.json``` file.
+  ```JS
+  {
+    "covidReport": [
+      {
+        "reportDate": "Agosto 29, 2021",
+        "newCases": "18,528",
+        "recoveries": "17,922",
+        "deaths": "101",
+        "activeCasePercentage": "7.3",
+        "activeCaseTotal": "143,221",
+        "generatedAt": "2021-08-30T06:01:19.674Z"
+      }
+    ]
+  }
+  ```
