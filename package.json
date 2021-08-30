@@ -1,0 +1,21 @@
+{
+  "name": "covid-scrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.1",
+    "cheerio": "^1.0.0-rc.10",
+    "puppeteer": "^10.2.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "scrape-twitter": "^0.11.1",
+    "starlordtwitterscraper": "^1.0.5"
+  }
+}
