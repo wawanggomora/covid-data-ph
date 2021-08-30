@@ -8,6 +8,15 @@
 			"activeCasePercentage": "7.3",
 			"activeCaseTotal": "143,221",
 			"generatedAt": "2021-08-30T06:01:19.674Z"
+		},
+		{
+			"reportDate": "Agosto 30, 2021",
+			"newCases": "22,366",
+			"recoveries": "16,864",
+			"deaths": "222",
+			"activeCasePercentage": "7.5",
+			"activeCaseTotal": "148,594",
+			"generatedAt": "2021-08-30T08:31:47.640Z"
 		}
 	]
 }
